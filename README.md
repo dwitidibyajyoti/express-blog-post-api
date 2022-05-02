@@ -17,7 +17,7 @@
 - Clone or download this repository
 
 ```sh
-git clone https://github.com/AlexSKuznetsov/prisma-express.git
+git clone https://github.com/dwitidibyajyoti/express-blog-post-api.git
 ```
 
 - Run Docker containers
